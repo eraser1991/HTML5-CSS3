@@ -699,3 +699,13 @@
             letter-spacing: 0.025em;
             color: #445162;
         }
+        
+        .main-footer-social-item:hover {
+            background-color: #445161;
+            border: 1px solid #fff;
+            box-sizing: border-box;
+        }
+        
+        .main-footer-social-item:active {
+            background-color: #fff;
+        }
