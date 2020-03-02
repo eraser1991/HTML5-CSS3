@@ -502,6 +502,7 @@
             width: 1280px;
             padding: 50px;
             background-color: #445161;
+            box-sizing: border-box;
         }
         
         .main-footer-title {
